@@ -1284,9 +1284,7 @@ h5,
 }
 h6,
 .h6 {
-  font-size:20px;
-  color:white;
-  opacity:0.9;
+  font-size: 12px;
 }
 p {
   margin: 0 0 10px;
