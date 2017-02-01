@@ -1,0 +1,108 @@
+body{
+	background-image: url(imgs/homepage/phelps.jpg);
+	background-size:cover;
+}
+.container{
+	font-family: helvetica;
+	background-image: url('imgs/homepage/background.png');
+	background-size: cover;
+}
+#imago{
+	padding-left:25%;
+	padding-right:25%;
+}
+
+#firstRow{
+	text-align: center;
+	color: #337AB6;
+}
+#secondRow{
+}
+#thirdRow>h1{
+	min-height: 200px;
+}
+
+#menu{
+	margin: 0 auto;
+	background: white;
+	display: block;
+}
+
+#menuBar{
+	width: 100%;
+	margin: 0 auto;
+}
+
+ul{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+.nav > li > a{
+	text-align: center;
+}
+
+#fourthRow{
+	text-align: center;
+}
+#navigazione{
+	text-align: justify;
+}
+
+#pannellosx{
+	width: 49%;
+	float: left;
+}
+
+#pannellodx{
+	width: 49%;
+	float: right;
+}
+
+#sub-container{
+	margin: 20px 30px;
+	text-align: justify;
+	min-height: 550px;
+	background: white;
+}
+
+#cor{
+	text-align: justify;
+	font-size: 15px;
+	color: #337AB6;
+}
+#carousel{
+	margin: 5px auto;
+}
+.carousel-caption>p{
+	font-size: 50px;
+	text-shadow: 2px 2px black;	
+	opacity: 0.7;
+
+}
+.carousel-caption>h2{
+	text-shadow: 2px 2px black;	
+	opacity: 0.7;
+}
+
+#specifica{
+	margin-left: 15px; 
+}
+.row {
+	border-style: : 10px;
+
+}
+#animation{
+	-webkit-animation: myTitolo 3s infinite;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+@-webkit-keyframes myTitolo{
+	0% {color:lightblue;}
+	25%{color: skyblue;}
+	50%{color: blue;}
+	90%{color:skyblue;}
+	100% {color:lightblue;}
+}
