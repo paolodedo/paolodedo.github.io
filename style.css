@@ -45,10 +45,10 @@ ul{
 #fourthRow{
 	text-align: center;
 }
-#fourthRow > p{
+#fourthRow > h6{
 	font-size:20px;
-	color: #ffffff;
-	opacity: 0.9;
+	color:white;
+	opacity:0.9;
 }
 #navigazione{
 	text-align: justify;
