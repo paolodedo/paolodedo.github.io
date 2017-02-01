@@ -44,6 +44,8 @@ ul{
 
 #fourthRow{
 	text-align: center;
+}
+#fourthRow>a{
 	font-size:20px;
 	color:white;
 	opacity:0.9;
