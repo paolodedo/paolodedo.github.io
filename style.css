@@ -1,5 +1,5 @@
 body{
-	background-image: url(imgs/homepage/phelps.jpg);
+	background-image: url('imgs/homepage/phelps.jpg');
 	background-size:cover;
 }
 .container{
@@ -8,8 +8,7 @@ body{
 	background-size: cover;
 }
 #imago{
-	padding-left:25%;
-	padding-right:25%;
+	margin: 0 auto;
 }
 
 #firstRow{
@@ -45,10 +44,10 @@ ul{
 #fourthRow{
 	text-align: center;
 }
-#fourthRow > h6{
+#paolodedo > a{
 	font-size:20px;
 	color:white;
-	opacity:0.9;
+	opacity:0.5;
 }
 #navigazione{
 	text-align: justify;
@@ -96,6 +95,9 @@ ul{
 .row {
 	border-style: : 10px;
 
+}
+#schede{
+	height: 180px;
 }
 #animation{
 	-webkit-animation: myTitolo 3s infinite;
