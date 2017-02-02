@@ -7,6 +7,10 @@ body{
 	background-image: url('imgs/homepage/background.png');
 	background-size: cover;
 }
+#imago{
+	padding: 0 25%;
+}
+
 #firstRow{
 	text-align: center;
 	color: #337AB6;
