@@ -44,7 +44,7 @@ ul{
 #fourthRow{
 	text-align: center;
 }
-#paolodedo > a{
+#fourthRow > div > a{
 	font-size:20px;
 	color:white;
 	opacity:0.5;
