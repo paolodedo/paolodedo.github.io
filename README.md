@@ -1,3 +1,4 @@
 ﻿# paolodedo.github.io
  
-Swimming Training Boards
+ - Swimming Training Boards;
+ - Useful links to my apps.
